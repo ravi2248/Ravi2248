@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual run
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,11 +15,10 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Hardcoded username to prevent variable errors
           github_user_name: ravi2248
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # This generates a "Dark Mode" snake with Neon Purple/Pink dots to match your header
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#161B22,#2A0F3D,#581C87,#7928CA,#FF0080
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
