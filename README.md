@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ravi-chengannagari">
+  <a href="https://www.linkedin.com/in/ravisankar-chengannagari-0148b916b/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:rchengannagari@mercy.edu">
     <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="#">
+  <a href="https://ravi2248.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/ACCESS-PORTFOLIO-181717?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
 </div>
@@ -117,11 +117,16 @@
 ### 💾 EXPERIENCE_LOGS
 
 ```diff
-! [CURRENT]: TEACHING ASSISTANT @ MERCY UNIVERSITY
+! [ARCHIVED]: TEACHING ASSISTANT @ MERCY UNIVERSITY (FROM FEB 2025 TO DEC 2025)
 + Mentoring students in Python, Java, and Data Structures.
 + Debugging OOP concepts and Algorithm logic.
 
-# [ARCHIVED]: PROGRAMMER ANALYST @ COGNIZANT
+# [ARCHIVED]: PROGRAMMER ANALYST @ COGNIZANT (FROM JUN 2022 TO NOV 2023)
++ Designed end-to-end ML pipelines (Ingestion -> Production).
++ Achieved 20-30% accuracy boost using XGBoost/TensorFlow.
++ Automated ETL workflows, reducing manual effort by 40%.
+
+# [ARCHIVED]: INTERN @ COGNIZANT (FROM JAN 2022 TO JUN 2022)
 + Designed end-to-end ML pipelines (Ingestion -> Production).
 + Achieved 20-30% accuracy boost using XGBoost/TensorFlow.
 + Automated ETL workflows, reducing manual effort by 40%.
