@@ -113,26 +113,6 @@
 </details>
 
 <br>
-
-### 💾 EXPERIENCE_LOGS
-
-```diff
-! [ARCHIVED]: TEACHING ASSISTANT @ MERCY UNIVERSITY (FROM FEB 2025 TO DEC 2025)
-+ Mentoring students in Python, Java, and Data Structures.
-+ Debugging OOP concepts and Algorithm logic.
-
-# [ARCHIVED]: PROGRAMMER ANALYST @ COGNIZANT (FROM JUN 2022 TO NOV 2023)
-+ Designed end-to-end ML pipelines (Ingestion -> Production).
-+ Achieved 20-30% accuracy boost using XGBoost/TensorFlow.
-+ Automated ETL workflows, reducing manual effort by 40%.
-
-# [ARCHIVED]: INTERN @ COGNIZANT (FROM JAN 2022 TO JUN 2022)
-+ Designed end-to-end ML pipelines (Ingestion -> Production).
-+ Achieved 20-30% accuracy boost using XGBoost/TensorFlow.
-+ Automated ETL workflows, reducing manual effort by 40%.
-
-```
-
 <h3>🐍 SYSTEM_ACTIVITY_TRACE</h3> <div align="center"> <img src="https://raw.githubusercontent.com/ravi2248/ravi2248/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" /> </div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&text=TERMINATING_SESSION...&fontSize=20&animation=fadeIn" width="100%" /> </div>
