@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=15&pause=1000&color=36BCF7&center=false&vCenter=false&multiline=true&width=800&height=260&lines=class+MLEngineer(Human):;%C2%A0%C2%A0%C2%A0%C2%A0def+__init__(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.name+%3D+%22Ravisankar+Chengannagari%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.degree+%3D+%22M.S.+in+CS+(Machine+Learning)%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.stack+%3D+%5B%22TensorFlow%22%2C+%22AWS%22%2C+%22Docker%22%5D;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.location+%3D+%22New+Jersey%2C+USA%22;%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0def+mission(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0return+%22Deploying+Scalable+AI+Pipelines%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=15&pause=1000&color=36BCF7&center=false&vCenter=false&multiline=true&width=800&height=260&lines=class+MLEngineer(Human):;%C2%A0%C2%A0%C2%A0%C2%A0def+__init__(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.name+%3D+%22Ravisankar+Chengannagari%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.degree+%3D+%22M.S.+in+CS+(Machine+Learning)%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.stack+%3D+%5B%22TensorFlow%22%2C+%22AWS%22%2C+%22Docker%22%5D;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.location+%3D+%22Virginia%2C+USA%22;%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0def+mission(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0return+%22Deploying+Scalable+AI+Pipelines%22" />
 </div>
 
 ---
